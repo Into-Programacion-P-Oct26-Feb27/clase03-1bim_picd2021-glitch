@@ -18,7 +18,7 @@ public class Ejemplo11 {
         // Ejemplo, expresión: 10 + 2*3 + 9 / 3
         int a = 10;
         int b = 2;
-        int c = 3;
+        int c = 6;
         int d = 9;
         int e = 3;
 
